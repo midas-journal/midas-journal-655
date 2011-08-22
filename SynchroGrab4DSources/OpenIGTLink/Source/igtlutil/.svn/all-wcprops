@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/NAMICSandBox/!svn/ver/3601/trunk/OpenIGTLink/Source/igtlutil
+END
+igtl_win32header.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_win32header.h
+END
+igtl_transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_transform.h
+END
+igtl_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_util.h
+END
+igtl_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_image.c
+END
+igtl_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_status.c
+END
+igtl_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_image.h
+END
+igtl_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_status.h
+END
+igtl_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_header.c
+END
+igtl_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_header.h
+END
+igtl_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_position.c
+END
+igtl_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_types.h
+END
+igtl_position.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_position.h
+END
+igtl_transform.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_transform.c
+END
+igtl_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlutil/igtl_util.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/3601/trunk/OpenIGTLink/Source/igtlutil/CMakeLists.txt
+END

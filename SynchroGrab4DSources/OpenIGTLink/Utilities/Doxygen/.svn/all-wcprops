@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/NAMICSandBox/!svn/ver/2848/trunk/OpenIGTLink/Utilities/Doxygen
+END
+doxygen.config.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/NAMICSandBox/!svn/ver/2848/trunk/OpenIGTLink/Utilities/Doxygen/doxygen.config.in
+END
+igtlgroup.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/2848/trunk/OpenIGTLink/Utilities/Doxygen/igtlgroup.pl
+END
+igtldoxygen.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/NAMICSandBox/!svn/ver/2848/trunk/OpenIGTLink/Utilities/Doxygen/igtldoxygen.pl.in
+END

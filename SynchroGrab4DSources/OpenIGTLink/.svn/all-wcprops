@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/NAMICSandBox/!svn/ver/4632/trunk/OpenIGTLink
+END
+DartConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/NAMICSandBox/!svn/ver/3497/trunk/OpenIGTLink/DartConfig.cmake
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/NAMICSandBox/!svn/ver/2266/trunk/OpenIGTLink/LICENSE.txt
+END
+igtl_typeconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/NAMICSandBox/!svn/ver/3459/trunk/OpenIGTLink/igtl_typeconfig.h.in
+END
+igtlTypeConfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/igtlTypeConfig.h.in
+END
+GenerateOpenIGTLinkConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/2757/trunk/OpenIGTLink/GenerateOpenIGTLinkConfig.cmake
+END
+FindOpenIGTLink.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/2799/trunk/OpenIGTLink/FindOpenIGTLink.cmake
+END
+UseOpenIGTLink.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/NAMICSandBox/!svn/ver/2747/trunk/OpenIGTLink/UseOpenIGTLink.cmake.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/NAMICSandBox/!svn/ver/2265/trunk/OpenIGTLink/README.txt
+END
+igtlConfigure.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/igtlConfigure.h.in
+END
+OpenIGTLinkConfigPlatform.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/3550/trunk/OpenIGTLink/OpenIGTLinkConfigPlatform.cmake
+END
+OpenIGTLinkConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/2810/trunk/OpenIGTLink/OpenIGTLinkConfig.cmake.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/NAMICSandBox/!svn/ver/3601/trunk/OpenIGTLink/CMakeLists.txt
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/NAMICSandBox/!svn/ver/4632/trunk/OpenIGTLink/Source
+END
+igtlPositionMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlPositionMessage.h
+END
+igtlMultiThreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMultiThreader.h
+END
+igtlLightObject.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlLightObject.cxx
+END
+igtlWin32Header.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlWin32Header.h
+END
+igtlTimeStamp.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlTimeStamp.cxx
+END
+igtlOSUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlOSUtil.h
+END
+igtlTransformMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlTransformMessage.h
+END
+igtlMutexLock.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMutexLock.cxx
+END
+igtlClientSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlClientSocket.h
+END
+igtlImageMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/NAMICSandBox/!svn/ver/3634/trunk/OpenIGTLink/Source/igtlImageMessage.h
+END
+igtlSmartPointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlSmartPointer.h
+END
+igtlFastMutexLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlFastMutexLock.h
+END
+igtlMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMath.h
+END
+igtlMessageBase.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMessageBase.cxx
+END
+igtlWindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlWindows.h
+END
+igtlServerSocket.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlServerSocket.cxx
+END
+igtlConditionVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlConditionVariable.h
+END
+igtlMessageHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMessageHeader.h
+END
+igtlLightObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlLightObject.h
+END
+igtlObjectFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlObjectFactory.h
+END
+igtlTimeStamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlTimeStamp.h
+END
+igtlStatusMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlStatusMessage.cxx
+END
+igtlSocket.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlSocket.cxx
+END
+igtlObjectFactoryBase.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlObjectFactoryBase.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/3601/trunk/OpenIGTLink/Source/CMakeLists.txt
+END
+igtlMutexLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMutexLock.h
+END
+igtlSimpleFastMutexLock.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlSimpleFastMutexLock.cxx
+END
+igtlServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlServerSocket.h
+END
+igtlMessageBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/NAMICSandBox/!svn/ver/3544/trunk/OpenIGTLink/Source/igtlMessageBase.h
+END
+igtlObject.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlObject.cxx
+END
+igtlMultiThreader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMultiThreader.cxx
+END
+igtlPositionMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlPositionMessage.cxx
+END
+igtlSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlSocket.h
+END
+igtlStatusMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlStatusMessage.h
+END
+igtlObjectFactoryBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlObjectFactoryBase.h
+END
+igtlOSUtil.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlOSUtil.cxx
+END
+igtlTransformMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlTransformMessage.cxx
+END
+igtlCreateObjectFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlCreateObjectFunction.h
+END
+igtlMacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/NAMICSandBox/!svn/ver/4248/trunk/OpenIGTLink/Source/igtlMacro.h
+END
+igtlClientSocket.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlClientSocket.cxx
+END
+igtlImageMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/NAMICSandBox/!svn/ver/4632/trunk/OpenIGTLink/Source/igtlImageMessage.cxx
+END
+igtlSimpleFastMutexLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlSimpleFastMutexLock.h
+END
+igtlFastMutexLock.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlFastMutexLock.cxx
+END
+igtlMath.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlMath.cxx
+END
+igtlTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlTypes.h
+END
+igtlObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlObject.h
+END
+igtlConditionVariable.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/3460/trunk/OpenIGTLink/Source/igtlConditionVariable.cxx
+END

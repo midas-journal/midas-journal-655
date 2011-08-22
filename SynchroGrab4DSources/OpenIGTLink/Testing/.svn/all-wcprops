@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/NAMICSandBox/!svn/ver/3266/trunk/OpenIGTLink/Testing
+END
+igtlSocketTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/NAMICSandBox/!svn/ver/3265/trunk/OpenIGTLink/Testing/igtlSocketTest.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/NAMICSandBox/!svn/ver/3265/trunk/OpenIGTLink/Testing/CMakeLists.txt
+END

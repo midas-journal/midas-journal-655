@@ -1,0 +1,48 @@
+/* 
+ * Here is where system computed values get stored.
+ * These values should only change when the target compile platform changes.
+ */
+
+
+#cmakedefine VTK_USE_FAKE_TRACKER
+#cmakedefine VTK_USE_POLARIS
+#cmakedefine VTK_USE_CERTUS
+#cmakedefine VTK_USE_FLOCK
+#cmakedefine VTK_USE_MICRONTRACKER
+
+#cmakedefine VTK_USE_MATROX_IMAGING
+#cmakedefine VTK_VFW_SUPPORTS_CAPTURE
+//#cmakedefine USE_SONIX_VIDEO
+//#cmakedefine USE_VIDEO_LINUX
+
+#cmakedefine VTK_USE_HEARTSIGNALBOX
+#cmakedefine VTK_USE_USBECGBOX
+
+#undef DO_CALIBRATION_FILE_CALCULATIONS
+
+#define ERRORTOLERANCE 10
+
+#define DATACOLLECTOR 1
+#define DATAPROCESSOR 2
+#define DATASENDER 3
+
+//Data Collector
+#define ERRORCOLLECTOR
+#define DEBUGCOLLECTOR
+#define TIMINGCOLLECTOR
+
+//Data Processor
+#define ERRORPROCESSOR
+#define DEBUGPROCESSOR
+#define TIMINGPROCESSOR
+
+//Data Sender
+#define ERRORSENDER
+#define DEBUGSENDER
+#define TIMINGSENDER
+
+//Instrument Tracker
+//#define ERROR_INST_TRACKER
+//#define DEBUG_INST_TRACKER
+//#define TIMING_INST_TRACKER
+
